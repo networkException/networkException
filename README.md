@@ -4,7 +4,7 @@ I'm (mostly) a backend dev but find myself working with frontend web way too muc
 
 #### My stats
 
-![networkException's github stats](https://github-readme-stats.vercel.app/api?username=networkException&show_icons=true)
+![networkException's github stats](https://github-readme-stats.vercel.app/api?username=networkException&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 #### Stuff about me
 
