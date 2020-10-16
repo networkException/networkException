@@ -10,21 +10,7 @@ I'm (mostly) a backend dev but find myself working with frontend web way too muc
 
 > 🔭 I’m currently working on
 
-some smaller side projects using node, typescript and fabricmc
-
-> 🌱 I learned
-
-to better understand Minecraft's code to make better mods ^^
-
-that enums together with functional interfaces are great in Java
-
-that JavaScript arrays are just objects with indicees as keys (huge shoutout to the work on [SerenityOS](https://github.com/SerenityOS/serenity), especially LibJS)
-
-how to properly use gradle (I hope)
-
-> 🤔 I’m looking for help with
-
-getting sponge to interupt a constuctor call
+some smaller side projects using node and typescript
 
 > 💬 Ask me about
 
