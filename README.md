@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm (mostly) a backend dev but find myself working with frontend web way too much
+I'm a TypeScript developer who likes working on backends, libraries and everything that scales
 
 #### My stats
 
@@ -10,16 +10,17 @@ I'm (mostly) a backend dev but find myself working with frontend web way too muc
 
 > 🔭 I’m currently working on
 
-some smaller side projects using node and typescript
+maintaining ungoogled-chromium-archlinux and t2linux.org's wiki
 
 > 💬 Ask me about
 
-anything you want! I will try my best to help you out, but the most success you will probably have with topics like Minecraft, Discord and Java
+anything you want! I will try my best to help you out, but the most success you will probably have with topics like Linux, Minecraft, Discord, TypeScript and Java
 
 > 📫 Reach out to me on
 
-[@networkException#0001@discord](http://discord.nwex.de/), [@networkexception@keybase](http://keybase.nwex.de/) (you will also find platforms like twitter linked there), [nwex.de](https://nwex.de/) (not much yet), [@networkException@gitlab.upi.li](https://gitlab.upi.li/networkException) or [github@nwex.de](mailto:github@nwex.de)!
+[@networkException#0001@discord](http://discord.nwex.de/), [@networkexception@keybase](http://keybase.nwex.de/) (you will also find platforms like twitter linked there), [nwex.de](https://nwex.de/), [@networkException@gitlab.upi.li](https://gitlab.upi.li/networkException) or [github@nwex.de](mailto:github@nwex.de)!
 
 > 😄 My pronouns are
 
-he/him
+https://pronoun.is/he and https://pronoun.is/they
+
