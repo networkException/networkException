@@ -18,7 +18,7 @@ anything you want! I will try my best to help you out, but the most success you 
 
 > 📫 Reach out to me on
 
-[@networkexception:chat.upi.li@matrix.org](https://matrix.to/#/@networkexception:chat.upi.li), [@networkException#0001@discord.com](https://discord.nwex.de/), [@networkexception@keybase.io](https://keybase.nwex.de/), [@networkexception@chaos.social](https://mastodon.nwex.de), [nwex.de](https://nwex.de/), [@networkException@github.com](https://github.com/networkException) or [github@nwex.de](mailto:github@nwex.de)!
+[@networkexception:chat.upi.li@matrix.org](https://matrix.to/#/@networkexception:chat.upi.li), [@networkException#0001@discord.com](https://discord.nwex.de/), [@networkexception@keybase.io](https://keybase.nwex.de/), [@networkexception@chaos.social](https://mastodon.nwex.de), [nwex.de](https://nwex.de/), [@networkException@github.com](https://github.com/networkException) or [upi.gitlab@nwex.de](mailto:upi.gitlab@nwex.de)!
 
 > 😄 My pronouns are
 
