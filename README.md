@@ -2,10 +2,6 @@
 
 I'm a TypeScript developer who likes working on backends, libraries and everything that scales
 
-#### My stats
-
-![networkException's github stats](https://github-readme-stats.vercel.app/api?username=networkException&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 #### Stuff about me
 
 > 🔭 I’m currently working on
