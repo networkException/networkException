@@ -24,4 +24,4 @@ You MAY contact me using any one of the services and platforms listed on [nwex.d
 
 ## License
 
-Licensed under [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html)
+This document is licensed under the [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html)
