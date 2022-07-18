@@ -1,26 +1,23 @@
-### Hi there 👋
+# Hi I'm networkException
 
-I'm a TypeScript developer who likes working on backends, libraries and everything that scales
+> The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT" "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
 
-#### My stats
+I am a developer, maintainer and system administrator working on a variety of open source projects.
 
-![networkException's github stats](https://github-readme-stats.vercel.app/api?username=networkException&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+You SHOULD use [they/them](https://en.pronouns.page/they) pronouns when referring to me, however you MAY also use [he/him](https://en.pronouns.page/he) or [she/her](https://en.pronouns.page/she).
 
-#### Stuff about me
+## Projects I maintain in my free time
 
-> 🔭 I’m currently working on
+- [github.com/t2linux/wiki](https://github.com/t2linux/wiki) The t2linux.org wiki - A project to run Linux on Apple T2 devices
+- [github.com/ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) Chromium sans integration with Google
+- [github.com/ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) Arch Linux packaging for ungoogled-chromium
 
-maintaining ungoogled-chromium-archlinux and t2linux.org's wiki
+## Projects I contribute to in my free time
 
-> 💬 Ask me about
+- [github.com/SerenityOS/serenity](https://github.com/SerenityOS/serenity) The Serenity Operating System 🐞
 
-anything you want! I will try my best to help you out, but the most success you will probably have with topics like Linux, Minecraft, Discord, TypeScript and Java
+as well as various other ones that can be seen on my contribution history.
 
-> 📫 Reach out to me on
+## Contact
 
-[@networkexception:chat.upi.li@matrix.org](https://matrix.to/#/@networkexception:chat.upi.li), [@networkException#0001@discord.com](https://discord.nwex.de/), [@networkexception@keybase.io](https://keybase.nwex.de/), [@networkexception@chaos.social](https://mastodon.nwex.de), [nwex.de](https://nwex.de/), [@networkException@gitlab.upi.li](https://gitlab.upi.li/networkException) or [github@nwex.de](mailto:github@nwex.de)!
-
-> 😄 My pronouns are
-
-https://pronoun.is/he and https://pronoun.is/they
-
+You MAY contact me using any one of the services and platforms listed on [nwex.de](https://nwex.de). Other source management sites are also listed there.
