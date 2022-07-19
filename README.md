@@ -1,8 +1,8 @@
 # Hi I'm networkException
 
-> The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT" "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
+> The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT" "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119.html).
 
-> The key words "MUST (BUT WE KNOW YOU WON'T)", "SHOULD CONSIDER", "REALLY SHOULD NOT", "OUGHT TO", "WOULD PROBABLY", "MAY WISH TO", "COULD", "POSSIBLE", and "MIGHT" in this document are to be interpreted as described in [RFC 6919](https://datatracker.ietf.org/doc/html/rfc6919).
+> The key words "MUST (BUT WE KNOW YOU WON'T)", "SHOULD CONSIDER", "REALLY SHOULD NOT", "OUGHT TO", "WOULD PROBABLY", "MAY WISH TO", "COULD", "POSSIBLE", and "MIGHT" in this document are to be interpreted as described in [RFC 6919](https://www.rfc-editor.org/rfc/rfc6919.html).
 
 I am a developer, maintainer and system administrator working on a variety of open source projects.
 
@@ -26,7 +26,7 @@ You MAY contact me using any one of the services and platforms listed on [nwex.d
 
 ## Locales
 
-It is POSSIBLE to talk to me in any language listed as a [RFC 5646](https://datatracker.ietf.org/doc/html/rfc5646) language tag below.
+It is POSSIBLE to talk to me in any language listed as a [RFC 5646](https://www.rfc-editor.org/rfc/rfc5646.html) language tag below.
 
 - `en-US` English (United States)
 - `de-DE` German (Germany)
