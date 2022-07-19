@@ -2,6 +2,8 @@
 
 > The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT" "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
 
+> The key words "MUST (BUT WE KNOW YOU WON'T)", "SHOULD CONSIDER", "REALLY SHOULD NOT", "OUGHT TO", "WOULD PROBABLY", "MAY WISH TO", "COULD", "POSSIBLE", and "MIGHT" in this document are to be interpreted as described in [RFC 6919](https://datatracker.ietf.org/doc/html/rfc6919).
+
 I am a developer, maintainer and system administrator working on a variety of open source projects.
 
 You SHOULD use [they/them](https://en.pronouns.page/they) pronouns when referring to me, however you MAY also use [he/him](https://en.pronouns.page/he) or [she/her](https://en.pronouns.page/she).
