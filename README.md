@@ -29,7 +29,7 @@ You MAY contact me using any one of the services and platforms listed on [nwex.d
 It is POSSIBLE to talk to me in any language listed as a [RFC 5646](https://datatracker.ietf.org/doc/html/rfc5646) language tag below.
 
 - `en-US` English (United States)
-- `de-DE` German (Germany
+- `de-DE` German (Germany)
 
 ## License / Credits
 
