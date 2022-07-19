@@ -24,6 +24,8 @@ as well as various other ones that can be seen on my contribution history.
 
 You MAY contact me using any one of the services and platforms listed on [nwex.de](https://nwex.de). Other source management sites are also listed there.
 
-## License
+## License / Credits
 
 This document is licensed under the [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html).
+
+I took inspiration form the user readme of [Q](https://github.com/TheEnbyperor), you MAY WISH TO take a look at its too.
