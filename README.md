@@ -24,7 +24,7 @@ as well as various other ones that can be seen on my contribution history.
 
 ## Contact
 
-You MAY contact me using any one of the services and platforms listed on [nwex.de](https://nwex.de). Other source management sites are also listed there.
+You MAY contact me using any one of the services and platforms listed on [nwex.de](https://nwex.de/). Other source management sites are also listed there.
 
 ## Locales
 
