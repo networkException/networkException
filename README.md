@@ -35,6 +35,7 @@ It is POSSIBLE to talk to me in any language listed as a [RFC 5646](https://www.
 
 ## License / Credits
 
-This document is licensed under the [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html).
+This document is licensed under the [BSD 2-Clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html). See the full
+`LICENSE` file in the canonical repository at [gitlab.upi.li/networkException/networkException](https://gitlab.upi.li/networkException/networkException).
 
 I took inspiration form the user readme of [Q](https://github.com/TheEnbyperor), you MAY WISH TO take a look at its too.
