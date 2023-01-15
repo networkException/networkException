@@ -6,7 +6,7 @@
 
 I am a developer, maintainer and system administrator working on a variety of open source projects.
 
-You SHOULD use [they/them](https://en.pronouns.page/they) pronouns when referring to me, however you MAY also use [he/him](https://en.pronouns.page/he) or [she/her](https://en.pronouns.page/she).
+You SHOULD use [they/them](https://pronouns.within.lgbt/they/them/their/theirs/themself) pronouns when referring to me, however you MAY also use [he/him](https://pronouns.within.lgbt/he/him/his/his/himself) or [she/her](https://pronouns.within.lgbt/she/her/her/hers/herself).
 
 ## Projects I maintain in my free time
 
