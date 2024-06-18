@@ -12,9 +12,9 @@ In German, you SHOULD use <abbr title="Example: Es entwickelt an Open Source Sof
 
 ## Projects I maintain in my free time
 
-- [github.com/t2linux/wiki](https://github.com/t2linux/wiki) The t2linux.org wiki - A project to run Linux on Apple T2 devices
 - [github.com/ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) Chromium sans integration with Google
 - [github.com/ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) Arch Linux packaging for ungoogled-chromium
+- [github.com/t2linux/wiki](https://github.com/t2linux/wiki) The t2linux.org wiki - A project to run Linux on Apple T2 devices
 - [github.com/networkException/thundersort](https://github.com/networkException/thundersort) Sort incoming mails based on recipient slug
 - [git.nwex.de/networkException/restic-integrity](https://git.nwex.de/networkException/restic-integrity) Check the integrity of a restic repository without unlocking it
 
