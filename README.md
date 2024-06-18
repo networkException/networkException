@@ -16,7 +16,7 @@ In German, you SHOULD use <abbr title="Example: Es entwickelt an Open Source Sof
 - [github.com/ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) Chromium sans integration with Google
 - [github.com/ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) Arch Linux packaging for ungoogled-chromium
 - [github.com/networkException/thundersort](https://github.com/networkException/thundersort) Sort incoming mails based on recipient slug
-- [gitlab.upi.li/networkException/restic-integrity](https://gitlab.upi.li/networkException/restic-integrity) Check the integrity of a restic repository without unlocking it
+- [git.nwex.de/networkException/restic-integrity](https://git.nwex.de/networkException/restic-integrity) Check the integrity of a restic repository without unlocking it
 
 ## Projects I contribute to in my free time
 
