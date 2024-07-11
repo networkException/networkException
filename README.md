@@ -10,6 +10,10 @@ You SHOULD use [she/her](https://pronouns.within.lgbt/she/her/her/hers/herself) 
 
 In German, you SHOULD use sie/ihr or <abbr title="Example: Es entwickelt an Open Source Software, ihr GitHub findest du hier.">es/ihr</abbr> and you SHOULD NOT use er/ihm pronouns.
 
+As a third party communicating my preferred pronouns to others in written form, you SHOULD use "she/they". If the target audience is german you MAY
+use "es/ihr". You must not use masculine pronouns in your document. You MIGHT also link back to this document for up to date guidance using the
+canonical repository link mentioned below.
+
 ## Projects I maintain in my free time
 
 - [github.com/ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) Chromium sans integration with Google
