@@ -6,9 +6,9 @@
 
 I am a developer, maintainer and system administrator working on a variety of open source projects.
 
-You SHOULD use [they/them](https://pronouns.within.lgbt/they/them/their/theirs/themself) and you SHOULD NOT use [he/him](https://pronouns.within.lgbt/he/him/his/his/himself) pronouns when referring to me. You MAY use [she/her](https://pronouns.within.lgbt/she/her/her/hers/herself) if we know each other (if you are unsure whether this applies to you, you COULD check the follow graph of [@networkexception@nwex.de](https://social.nwex.de/@networkexception)).
+You SHOULD use [she/her](https://pronouns.within.lgbt/she/her/her/hers/herself) or [they/them](https://pronouns.within.lgbt/they/them/their/theirs/themself) and you SHOULD NOT use [he/him](https://pronouns.within.lgbt/he/him/his/his/himself) pronouns when referring to me.
 
-In German, you SHOULD use <abbr title="Example: Es entwickelt an Open Source Software, ihr GitHub findest du hier.">es/ihr</abbr> and you SHOULD NOT use er/ihm pronouns. You MAY use sie/ihr based on the same requirements as above.
+In German, you SHOULD use sie/ihr or <abbr title="Example: Es entwickelt an Open Source Software, ihr GitHub findest du hier.">es/ihr</abbr> and you SHOULD NOT use er/ihm pronouns.
 
 ## Projects I maintain in my free time
 
