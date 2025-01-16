@@ -34,10 +34,10 @@ You MAY contact me using any one of the services and platforms listed on [nwex.d
 
 ## Locales
 
-It is POSSIBLE to talk to me in any language listed as a [RFC 5646](https://www.rfc-editor.org/rfc/rfc5646.html) language tag below.
+It is POSSIBLE to talk to me in any language listed as a [RFC 5646](https://www.rfc-editor.org/rfc/rfc5646.html) language tag below:
 
-- `en` English
-- `de` German
+- `en` (English)
+- `de` (German)
 
 ## License / Credits
 
